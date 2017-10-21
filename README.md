@@ -25,4 +25,4 @@ By Amin Sholeh
 
 
 
-{"_id":"2","title":"contoh title","description":"contoh deskripsi","price":"Rp 35.000","image_url":"https://drive.google.com/open?id=0B3GQCEkc1CjKd3pCVG9QNjBTVkk","stock":155,"__v":0}]
+{"_id":"2","title":"contoh title","description":"contoh deskripsi","price":"Rp 35.000","image_url":"https://drive.google.com/open?id=0B3GQCEkc1CjKd3pCVG9QNjBTVkk","stock":155,"__v":0}]# API
